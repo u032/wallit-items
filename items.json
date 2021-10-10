@@ -11,4 +11,11 @@
 		"emoji": "🍕",
 		"price": 25000
 	}
+	
+	"brains": {
+	        "name": "Мозги",
+		"description":"Купи себе нормальные мозги",
+		"emoji": ":brain:",
+		"price": 30000
+	}
 }
